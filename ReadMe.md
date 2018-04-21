@@ -7,3 +7,14 @@ Design and development of this demo was lead by [Scott Garner](http://scott.j38.
 Other libraries and frameworks used in this project include [Twitter Bootstrap](http://getbootstrap.com) and [jQuery](http://jquery.com). Icons are from Dave Gandy's [Font Awesome](http://fontawesome.io/).
 
 [p5.js](http://p5js.org/) is developed by Lauren McCarthy and other [contributors](http://p5js.org/site/development/#contributors) with the support of the [Processing Foundation](http://processing.org/) and [NYU ITP](http://itp.nyu.edu).
+
+## Developing
+
+### Running locally
+
+* `bundle install`
+* `bundle exec jekyll serve`
+
+### Reference
+
+https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
